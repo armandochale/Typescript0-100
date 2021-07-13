@@ -1,3 +1,3 @@
-let numero:number = 10
-numero = 45
+let numero:number = 20
+numero = 10
 console.log(numero)
